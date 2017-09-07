@@ -1,0 +1,8 @@
+Criação do modelo
+-m cria a migration
+
+php artisan make:model usuarios -m
+
+php artisan migrate
+
+php artisan make:controller usuariosController
